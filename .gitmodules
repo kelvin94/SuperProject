@@ -1,0 +1,3 @@
+[submodule "sharedCodeA"]
+	path = sharedCodeA
+	url = https://github.com/kelvin94/sharedCodeA.git
